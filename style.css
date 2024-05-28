@@ -1,0 +1,19 @@
+body {
+    background-color:#D6B2EF;
+    color:#230C33;
+
+
+}
+
+strong {
+    color:blueviolet;
+}
+
+h1 {
+    font-weight:bold;
+}
+span {
+    color:purple;
+    border: 5px solid #230C33;
+    padding: 10px;
+}
